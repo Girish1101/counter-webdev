@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right,rgba(255,0,0,0.75),yellow);
+    margin: 0;
+    padding: 0; 
+    height: 100vh; /* Ensure the body takes up the full viewport height */
+    box-sizing: border-box;
+    align-content: center;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    font-size: 20px;
+    /* display: flex;
+    justify-content: center; */
+    align-content: center;
+}
